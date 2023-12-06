@@ -26,7 +26,6 @@ Contacto:
 
 <img width="958" alt="image" src="https://github.com/rubi-mendv/Portafolio/assets/151890606/2897f122-cabb-4416-95cd-18c1e83e26b8">
 
-![Contacto](imagenes/screenshot5.png)
 
 ## Tecnologías
 
