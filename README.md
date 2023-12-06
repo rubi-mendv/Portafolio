@@ -1,30 +1,31 @@
-# Portafolio Adaptable (Responsive) con Bootstrap 5
+# Responsive Portfolio
 
-Este proyecto creado para el bootcamp Tecnolochicas PRO, es una página web adaptable a dispositivos de distintos tamaños (este tipo de sitio web se conoce en inglés como "responsive"). 
-
-El propósito de esta página web es mostrar el portafolio de proyectos de un(a) desarrollador(a) y su experiencia. Incluye una descripción breve de su motivación, experiencia, proyectos, artículos publicados y formas de contacto. 
-
-También incluye imágenes alternativas en la carpeta `imagenes` en caso de que se desee personalizar la imagen principal del desarrollador, además de animación a la escritura de la página web con JavaScript.
+Mi primer portafolio
 
 ### Capturas de pantalla:
 
 Primera parte de la página web:
 
-![Primera parte de la página web](imagenes/screenshot1.png)
+<img width="956" alt="image" src="https://github.com/rubi-mendv/Portafolio/assets/151890606/1750eb7e-0e29-4b29-b450-81db8ab9a947">
+
+<img width="960" alt="image" src="https://github.com/rubi-mendv/Portafolio/assets/151890606/cb68ccd7-d238-43df-8001-58eef8140ea3">
 
 Experiencia:
 
-![Experiencia](imagenes/screenshot2.png)
+<img width="959" alt="image" src="https://github.com/rubi-mendv/Portafolio/assets/151890606/0c40566e-a36e-4da1-ac5e-c6d5a49c4b69">
 
 Proyectos:
 
-![Proyectos](imagenes/screenshot3.png)
+<img width="960" alt="image" src="https://github.com/rubi-mendv/Portafolio/assets/151890606/4522f187-8322-4713-899e-6cec3d674bd0">
 
 Testimonios:
 
-![Testimonios](imagenes/screenshot4.png)
+<img width="960" alt="image" src="https://github.com/rubi-mendv/Portafolio/assets/151890606/f85ce576-2920-4741-bd52-785ca6a2a2d1">
 
 Contacto:
+
+<img width="956" alt="image" src="https://github.com/rubi-mendv/Portafolio/assets/151890606/07964e93-7c86-4810-9066-bd58543fe817">
+
 
 ![Contacto](imagenes/screenshot5.png)
 
@@ -36,8 +37,6 @@ Esta página web fue creada con:
 * CSS
 * JavaScript 
 * Bootstrap 5
-
-Además, se incluyeron **Google Fonts** para personalizar la fuente y **Bootstrap icons** para incorporar íconos como flechas y logos de redes sociales populares. 
 
 ## Español
 
