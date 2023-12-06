@@ -6,26 +6,25 @@ Mi primer portafolio
 
 Primera parte de la página web:
 
-<img width="956" alt="image" src="https://github.com/rubi-mendv/Portafolio/assets/151890606/1750eb7e-0e29-4b29-b450-81db8ab9a947">
+<img width="959" alt="image" src="https://github.com/rubi-mendv/Portafolio/assets/151890606/d570773a-1795-490e-b752-c8612c7c33fc">
 
-<img width="960" alt="image" src="https://github.com/rubi-mendv/Portafolio/assets/151890606/cb68ccd7-d238-43df-8001-58eef8140ea3">
+<img width="956" alt="image" src="https://github.com/rubi-mendv/Portafolio/assets/151890606/ec5865ec-9a85-428e-b270-6fea224a72f9">
 
 Experiencia:
 
-<img width="959" alt="image" src="https://github.com/rubi-mendv/Portafolio/assets/151890606/0c40566e-a36e-4da1-ac5e-c6d5a49c4b69">
+<img width="957" alt="image" src="https://github.com/rubi-mendv/Portafolio/assets/151890606/3b782c4a-6505-4ea3-b8ad-b3dc997f07ef">
 
 Proyectos:
 
-<img width="960" alt="image" src="https://github.com/rubi-mendv/Portafolio/assets/151890606/4522f187-8322-4713-899e-6cec3d674bd0">
+<img width="954" alt="image" src="https://github.com/rubi-mendv/Portafolio/assets/151890606/66396217-0006-445d-9b7b-e3a6a00bf7f0">
 
 Testimonios:
 
-<img width="960" alt="image" src="https://github.com/rubi-mendv/Portafolio/assets/151890606/f85ce576-2920-4741-bd52-785ca6a2a2d1">
+<img width="952" alt="image" src="https://github.com/rubi-mendv/Portafolio/assets/151890606/a8a30df7-f16a-4a5f-a041-fc69269f1a9a">
 
 Contacto:
 
-<img width="956" alt="image" src="https://github.com/rubi-mendv/Portafolio/assets/151890606/07964e93-7c86-4810-9066-bd58543fe817">
-
+<img width="958" alt="image" src="https://github.com/rubi-mendv/Portafolio/assets/151890606/2897f122-cabb-4416-95cd-18c1e83e26b8">
 
 ![Contacto](imagenes/screenshot5.png)
 
